@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class Entry {
+public class Entry {
+    public static void main(String[] args) {
+        System.out.println("1111111");
+    }
 }
